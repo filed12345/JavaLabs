@@ -1,6 +1,4 @@
-package lab2_14;
-
-import java.util.Arrays;
+package Lab1;
 
 public class lab2_14 {
     public static void main(String[] args) {
